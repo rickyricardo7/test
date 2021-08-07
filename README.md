@@ -3,6 +3,9 @@
 ## level 2 header
 
 ### level 3 header 
+- list item
+- list item 2
+- list item 3
 
 **bold**
 
