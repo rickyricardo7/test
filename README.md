@@ -17,5 +17,5 @@ source = [x for x in list]
 
 [link](https://careernetwork.2u.com/articles/2021/07/18/career-pathways-fintech/)
 
-![](Man_at_desk.png)
+![](Man_at_Desk.png)
 
